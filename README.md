@@ -1,4 +1,5 @@
 # Accounts counter
+> here is example with yona network
 
 - [Client](./counter-client/README.md)
 - [Smart Contract](./counter/README.md)
@@ -9,7 +10,7 @@
 >
 > Private key you can get in Yona Wallet.
 > 
-> About `Yona Wallet` or `Phantom Wallet`
+> About `Yona Wallet`
 >
 > [1. Yona Wallet Tutorial](https://telegra.ph/Yona-Network-Devnet-Guide-05-20)
 >
