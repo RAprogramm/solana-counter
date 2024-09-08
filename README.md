@@ -9,7 +9,7 @@
 >
 > Private key you can get in Yona Wallet.
 > 
-> About `Yona Wallet`
+> About `Yona Wallet` or `Phantom Wallet`
 >
 > [1. Yona Wallet Tutorial](https://telegra.ph/Yona-Network-Devnet-Guide-05-20)
 >
