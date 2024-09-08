@@ -1,0 +1,12 @@
+[package]
+name = "counter"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "counter"
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+solana-program = "1.18.14"
+borsh = { version = "1.5.0", features = ["derive"] }

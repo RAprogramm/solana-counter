@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Создание виртуальной среды
+python -m venv myenv
+
+# Активация виртуальной среды (Windows)
+source myenv/Scripts/activate
+
+# Активация виртуальной среды (UNIX)
+source myenv/bin/activate
+
+# Установка модуля base58
+pip install base58
+
+# Запуск скрипта с передачей закодированного приватного ключа в качестве аргумента
+python key_to_keypair_json.py
