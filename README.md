@@ -1,5 +1,5 @@
 # Accounts counter
-> here is example with yona network
+> *here is example with yona network*
 
 - [Client](./counter-client/README.md)
 - [Smart Contract](./counter/README.md)
